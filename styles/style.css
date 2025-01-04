@@ -3,3 +3,8 @@ h3{
     font-weight: 600px
     ;
 }
+p{
+    border-style: dotted;
+    border-width: 10px;
+
+}
